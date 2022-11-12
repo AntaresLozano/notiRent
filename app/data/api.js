@@ -1,9 +1,3 @@
-// function getRandomInt(min, max) {
-//     min = Math.ceil(min);
-//     max = Math.floor(max);
-//     return Math.floor(Math.random() * (max - min) + min);
-//   }
-
   const baseUrl = 'https://www.simi-api.com/ApiSimiweb/response/v2.1.3/filtroInmueble/limite/1/total/12/departamento/0/ciudad/';
 
   const complementUrl = '/zona/0/barrio/0/tipoInm/0/tipOper/0/areamin/0/areamax/0/valmin/0/valmax/0/campo/0/order/desc/banios/0/alcobas/0/garajes/0/sede/0';
